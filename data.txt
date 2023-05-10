@@ -1,1 +1,2 @@
-Amazon | yourname@gmail.com | 1234
+Amazon | yourname@gmail.com | 1234 | yourname@gmail.com | 
+amaazon | yourname@gmail.com | defjam
